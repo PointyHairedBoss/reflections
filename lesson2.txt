@@ -1,2 +1,5 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	- organizes everything before comitting
+	change 2
+	change 3
+
